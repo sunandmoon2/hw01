@@ -1,6 +1,6 @@
-Author:   Juan Pueblo
-Date:     today
-Version:  1.0
+// Author:   Juan Pueblo
+// Date:     today
+// Version:  1.0
 
 /*
   Homework 01
